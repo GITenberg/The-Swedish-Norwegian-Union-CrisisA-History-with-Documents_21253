@@ -1,0 +1,31 @@
+_repo: The-Swedish-Norwegian-Union-CrisisA-History-with-Documents_21253
+_version: 0.1.0
+alternative_title: Svensk-norska krisen. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nordlund, Karl
+    alias: Nordlund, K. (Karl)
+    birthdate: 1871
+    gutenberg_agent_id: '9804'
+    url: http://www.gutenberg.org/2009/agents/9804
+description: A. History.--B. Acts.
+gutenberg_issued: '2007-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21253'
+  lccn: '06006256'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norway -- Politics and government -- 1814-1905'
+- !lcsh 'Sweden - -Politics and government -- 1814-1905'
+- !lcc 'DL'
+title: 'The Swedish-Norwegian Union Crisis
+
+  A History with Documents'
+url: http://www.gutenberg.org/ebooks/21253
